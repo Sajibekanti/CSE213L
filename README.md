@@ -3,8 +3,8 @@ Algorithms Lab All Problem and Solved Assignment
 
 #Lab 1 Practice Set
 1. Write a C program which print just like that-
-I
 
+I
 want
 to be a
 good
@@ -14,6 +14,7 @@ programmer
 2. Write a C program to input two numbers and perform all arithmetic operations. How to
 perform all arithmetic operation between two numbers in C programming. C program to find
 sum, difference, product, quotient and modulus of two given numbers.
+
 Example
 Input
 First number: 10
@@ -29,6 +30,7 @@ Modulus = 0
 3. Write a C program to input marks of five subjects of a student and calculate total and
 average of all subjects. How to calculate total and average in C programming. Logic to find
 total and average in C program.
+
 Example
 Input
 Enter marks of five subjects: 95 76 85 90 89
@@ -39,6 +41,7 @@ Average = 87
 4. Write a C program to input length and width of a rectangle from user and find area of the
 Rectangle. How to calculate area of a rectangle whose length and width are given by user in
 C programming. Logic to find area of a rectangle in C.
+
 Example
 Input
 Enter length: 10
@@ -51,6 +54,7 @@ Area = 300 sq. units
 area of the circle. How to calculate diameter, circumference and area of a circle whose radius
 is given by user in C programming. Logic to find diameter, circumference and area of a circle
 in C.
+
 Example
 Input
 Enter radius: 10
@@ -63,6 +67,7 @@ Area = 314 sq. units
 6. Write a C Program to input two angles from user and find third angle of the triangle. How to
 find all angles of a triangle if two angles are given by user using C programming. C program to
 calculate the third angle of a triangle if two angles are given.
+
 Example
 Input
 Enter first angle: 60
@@ -76,6 +81,7 @@ Third angle = 40
 Write a C Program to input a character from user and find the ASCII value of the character.
 How to find ASCII value of a character if a character is given by user using C programming. C
 program to print the ASCII value of a character if a character is given.
+
 Example
 Input
 Enter a character: G
