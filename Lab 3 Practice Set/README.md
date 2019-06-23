@@ -1,5 +1,5 @@
 <h1> 
-Lab 3 Practice Set All Provlem Solved 
+Lab 3 Practice Set All Problem Solved 
 </h1>
 <p> In This Lab We Have Complete C- Loop practice, </p>
 
